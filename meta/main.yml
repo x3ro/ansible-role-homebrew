@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  author: fresskoma
+  min_ansible_version: 2.5
+  platforms:
+    - name: MacOSX
+      versions:
+        - all
+        - any
+  galaxy_tags:
+    - development
+    - system
+- packaging
