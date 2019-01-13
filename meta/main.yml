@@ -1,6 +1,11 @@
 ---
+dependencies:
+
 galaxy_info:
   author: fresskoma
+  description: Homebrew for Mac OS X
+  company: ""
+  license: "license (BSD, MIT)"
   min_ansible_version: 2.5
   platforms:
     - name: MacOSX
