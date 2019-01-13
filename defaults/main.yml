@@ -1,5 +1,6 @@
 ---
 homebrew_repo: https://github.com/Homebrew/brew
+homebrew_version: 241ee989bb6a917cb6000a1aa06aa341c465a1b3 # 1.9.1
 
 homebrew_prefix: /usr/local
 homebrew_install_path: "{{ homebrew_prefix }}/Homebrew"
