@@ -36,7 +36,7 @@
 - name: Ensure Homebrew is installed.
   git:
     repo: "{{ homebrew_repo }}"
-    version: master
+    version: "{{ homebrew_version }}"
     dest: "{{ homebrew_install_path }}"
     update: no
     depth: 1
